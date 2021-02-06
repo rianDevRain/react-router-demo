@@ -66,9 +66,9 @@ export class Contact extends Component {
 						<input type="text" name="lastName" value={this.state.formData.lastName} onChange={this.handleChange} />
 					</div>
 					<button>Submit</button> <br />
-					{this.state.formData.firstName}
+					{/* {this.state.formData.firstName}
 					<br />
-					{this.state.formData.lastName}
+					{this.state.formData.lastName} */}
 				</form>
 				<div></div>
 			</div>
