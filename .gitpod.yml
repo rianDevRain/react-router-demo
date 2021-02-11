@@ -1,0 +1,6 @@
+image:
+  file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - mathpix.vscode-mathpix-markdown@0.1.1:BF+vPB9O/CGGzdTp4xmFrA==
